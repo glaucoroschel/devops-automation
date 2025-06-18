@@ -1,6 +1,6 @@
 #  Project Example with Git
 
-Welcome to repository! This a example project to show the basic of GIT and GitHub.
+Welcome to repository! This an example project to show the basic of GIT and GitHub.
 
 ## Technologies used
 
@@ -9,3 +9,9 @@ Welcome to repository! This a example project to show the basic of GIT and GitHu
 - Markdown
 
 ### Project Structure
+
+### Adding remote content
+
+----
+
+## How to work with Git
