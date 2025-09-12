@@ -12,6 +12,6 @@ Welcome to repository! This an example project to show the basic of GIT and GitH
 
 ### Adding remote content
 
-----
+------
 
 ## How to work with Git
